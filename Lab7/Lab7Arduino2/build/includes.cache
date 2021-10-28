@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Utilisateur\\OneDrive - ETS\\GPA 788\\Laboratoire\\test_calculateur_Leq\\build\\sketch\\test_calculateur_Leq.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
